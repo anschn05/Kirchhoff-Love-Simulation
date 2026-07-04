@@ -5,6 +5,8 @@
 
 ## Try it in your browser
 
+➡️ **(https://anschn05.github.io/Kirchhoff-Love-Simulation/)**
+
 ➡️ **(https://anschn05.github.io/jupyterlite_papa_arbeit/)**
 
 ## Setting up your own NGSolve - jupyterlite demos:
